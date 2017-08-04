@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3241f7e5-597e-ac45-95a5-0c8aa7d56792++8329",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "3241f7e5-597e-ac45-95a5-0c8aa7d56792++8329" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3241f7e5-597e-ac45-95a5-0c8aa7d56792++8329" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B5674AF1-F8CF-408D-8893-DB26D26009A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3241f7e5-597e-ac45-95a5-0c8aa7d56792++8329" : "trunk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EmotiLink",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EmotiLink\/EmotiLink.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.2.10:82\/svn\/Emotilink",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3241f7e5-597e-ac45-95a5-0c8aa7d56792++8329"
+    }
+  ]
+}
